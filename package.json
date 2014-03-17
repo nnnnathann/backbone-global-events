@@ -1,0 +1,11 @@
+{
+  "name": "backbone-global-events",
+  "version": "0.0.1",
+  "description": "Global events rail for Backbone objects",
+  "main": "backbone-global-events.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "backbone-global-events",
+  "main": "backbone-global-events.js",
+  "version": "0.0.1",
+  "authors": [
+    "Nathan Bleigh <nathan.bleigh@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.1.2",
+    "underscore": "~1.6.0"
+  }
+}
